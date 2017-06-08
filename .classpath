@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="examples-src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/http.jar"/>
+	<classpathentry kind="lib" path="lib/jade.jar"/>
+	<classpathentry kind="lib" path="lib/jadeTools.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/nao/Java/jnaoqi-1.14.1-mac64/lib/jnaoqi-1.14.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/yangshuo/Desktop/nao/Java/jnaoqi-1.14.1-mac64/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/课题资料/依赖包/faceppsdk.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/correct/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/correct/javax.websocket-api-1.0-rc4.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/correct/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/correct/jrosbridge-0.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/correct/tyrus-standalone-client-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/yangshuo/Desktop/pellierd-pddl4j-e701787/Graphplan/lib/pddl4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

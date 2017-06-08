@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ros>
+   <node name="photoer" description="takepicture">
+      <topic name="pictures" type="std_msgs/String"/>
+      <service name="wait_request_img" type="messagecollect/wait" function="getimg"/>
+   </node>
+   <node name="photoer1" function="takepicture" backup="photoer">
+   </node>
+</ros>
